@@ -4,4 +4,4 @@ Les images qui suivent proviennent toutes du livre de recette familial. Il a ét
 
 ## Les pages
 
- [![Scan 0](thumbs/JPEG/Scan+0.jpg)](images/Scan+0.png)
+ [![Scan 0](thumbs/JPEG/Scan%200.jpg)](images/Scan$200.png)
