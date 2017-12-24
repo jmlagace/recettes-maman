@@ -4,8 +4,8 @@ Les images qui suivent proviennent toutes du livre de recette familial. Il a ét
 
 ## Les pages
 
-[![Scan 0](thumbs/JPEG/Scan%200.jpg)](images/Scan$200.png)
-[![Scan 0](thumbs/JPEG/Scan%201.jpg)](images/Scan$201.png)
-[![Scan 0](thumbs/JPEG/Scan%202.jpg)](images/Scan$202.png)
-[![Scan 0](thumbs/JPEG/Scan%203.jpg)](images/Scan$203.png)
-[![Scan 0](thumbs/JPEG/Scan%204.jpg)](images/Scan$204.png)
+[![Scan 0](thumbs/JPEG/Scan%200.jpg)](images/Scan%200.png)
+[![Scan 0](thumbs/JPEG/Scan%201.jpg)](images/Scan%201.png)
+[![Scan 0](thumbs/JPEG/Scan%202.jpg)](images/Scan%202.png)
+[![Scan 0](thumbs/JPEG/Scan%203.jpg)](images/Scan%203.png)
+[![Scan 0](thumbs/JPEG/Scan%204.jpg)](images/Scan%204.png)
